@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krillkovalev
+- 👋 Hi, I’m Kirill Kovalev
 - 👀 I’m interested in Python and Backend Development
-- 🌱 I’m currently learning Python and Algorithms
+- 🌱 I’m currently learning Web
 - 📫 Telegram: @krillkovalev
 
 <!---
