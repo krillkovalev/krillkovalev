@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Kovalev
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently C language and Basic Computer Science in 21 School
+- 🌱 I’m currently learn C language and Basic Computer Science in 21 School
 - 📫 Telegram: @krillkovalev
 
 <!---
