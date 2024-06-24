@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Kovalev
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning C and Basic Computer Science in 21 School
+- 🌱 I'm a site reliability engineer in Sber
 - 📫 Telegram: @krillkovalev
 
 <!---
