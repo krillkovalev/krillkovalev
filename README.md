@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Kovalev
 - 👀 I’m interested in Backend Development
-- 🌱 I'm a site reliability engineer in Sber
+- 🌱 Currently work as a site reliability engineer in Sber
 - 📫 Telegram: @krillkovalev
 
 <!---
